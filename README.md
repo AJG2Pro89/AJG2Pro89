@@ -1,16 +1,16 @@
 # Hola, soy Alberto García 👋 · Hi, I'm Alberto García
 
-**Data Engineer** · Costa Rica 🇨🇷
+**Data Engineer** · Costa Rica
 
 🌐 **Portafolio / Portfolio:** [ajg2pro89.github.io](https://ajg2pro89.github.io)
 
 ---
 
-### 🇪🇸 Sobre mí
+### Sobre mí
 
 Ingeniero de datos enfocado en construir pipelines confiables y de bajo costo: ingesta, modelado y lakehouse sobre ecosistemas Microsoft, Databricks y AWS. Me gusta reemplazar infraestructura cara por arquitecturas serverless simples y bien documentadas.
 
-### 🇬🇧 About me
+### About me
 
 Data engineer focused on building reliable, low-cost pipelines: ingestion, modeling and lakehouse work across Microsoft, Databricks and AWS ecosystems. I enjoy replacing expensive infrastructure with simple, well-documented serverless architectures.
 
@@ -39,8 +39,8 @@ EventBridge (06:00 UTC) → Step Functions → Lambda ×3 → S3 (Parquet) → G
 
 ### 🛠️ Stack
 
-**Lenguajes / Languages:** Python · PySpark · T-SQL · SQL
-**Datos / Data platforms:** SQL Server · Azure Synapse Analytics · Databricks · Delta Lake · Snowflake
-**ETL / Orquestación:** SSIS · AWS Step Functions · EventBridge
-**Cloud:** Azure · AWS (Lambda, S3, Glue, Athena, SAM)
-**Formatos / Formats:** Parquet · Delta · CSV · JSON
+- **Lenguajes / Languages:** Python · PySpark · T-SQL · SQL
+- **Datos / Data platforms:** SQL Server · Azure Synapse Analytics · Databricks · Delta Lake · Snowflake
+- **ETL / Orquestación:** SSIS · AWS Step Functions · EventBridge
+- **Cloud:** Azure · AWS (Lambda, S3, Glue, Athena, SAM)
+- **Formatos / Formats:** Parquet · Delta · CSV · JSON
